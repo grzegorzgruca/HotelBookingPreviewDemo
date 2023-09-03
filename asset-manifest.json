@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b3723dcf.css",
+    "main.js": "/static/js/main.8728a601.js",
+    "static/media/Recoleta-RegularDEMO.otf": "/static/media/Recoleta-RegularDEMO.fd9bfd35d1085b5c6511.otf",
+    "index.html": "/index.html",
+    "main.b3723dcf.css.map": "/static/css/main.b3723dcf.css.map",
+    "main.8728a601.js.map": "/static/js/main.8728a601.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3723dcf.css",
+    "static/js/main.8728a601.js"
+  ]
+}
